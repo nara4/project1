@@ -1,2 +1,5 @@
 Hey Hi kapu how are you
+<<<<<<< HEAD
 hello Reddy
+=======
+>>>>>>> 27fa551304fe2a38bfad92d99f2fe01687e3287b
